@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles.css" />
+    <title>Mon Article de Blog</title>
+  </head>
+  <body>
+    <div class="articles-container"></div>
+    <a href="#" class="fab">+</a>
+    <a href="#" class="fab" id="deleteAll">-</a>
+    <a href="#" class="fab" id="editCode">✎</a>
+
+    <div class="popup" id="codePopup">
+      <textarea
+        id="htmlCode"
+        placeholder="Entrez votre code HTML ici..."
+      ></textarea>
+      <textarea
+        id="cssCode"
+        placeholder="Entrez votre code CSS ici..."
+      ></textarea>
+      <button id="saveCode">Enregistrer</button>
+    </div>
+
+    <script src="main.js"></script>
+  </body>
+</html>

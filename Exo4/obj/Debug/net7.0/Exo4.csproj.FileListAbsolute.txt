@@ -1,0 +1,14 @@
+/Users/hugoa/dev/mydigitalschool/M2/natif/evaluation/Exo4/obj/Debug/net7.0/Exo4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hugoa/dev/mydigitalschool/M2/natif/evaluation/Exo4/obj/Debug/net7.0/Exo4.AssemblyInfoInputs.cache
+/Users/hugoa/dev/mydigitalschool/M2/natif/evaluation/Exo4/obj/Debug/net7.0/Exo4.AssemblyInfo.cs
+/Users/hugoa/dev/mydigitalschool/M2/natif/evaluation/Exo4/obj/Debug/net7.0/Exo4.csproj.CoreCompileInputs.cache
+/Users/hugoa/dev/mydigitalschool/M2/natif/evaluation/Exo4/bin/Debug/net7.0/Exo4
+/Users/hugoa/dev/mydigitalschool/M2/natif/evaluation/Exo4/bin/Debug/net7.0/Exo4.deps.json
+/Users/hugoa/dev/mydigitalschool/M2/natif/evaluation/Exo4/bin/Debug/net7.0/Exo4.runtimeconfig.json
+/Users/hugoa/dev/mydigitalschool/M2/natif/evaluation/Exo4/bin/Debug/net7.0/Exo4.dll
+/Users/hugoa/dev/mydigitalschool/M2/natif/evaluation/Exo4/bin/Debug/net7.0/Exo4.pdb
+/Users/hugoa/dev/mydigitalschool/M2/natif/evaluation/Exo4/obj/Debug/net7.0/Exo4.dll
+/Users/hugoa/dev/mydigitalschool/M2/natif/evaluation/Exo4/obj/Debug/net7.0/refint/Exo4.dll
+/Users/hugoa/dev/mydigitalschool/M2/natif/evaluation/Exo4/obj/Debug/net7.0/Exo4.pdb
+/Users/hugoa/dev/mydigitalschool/M2/natif/evaluation/Exo4/obj/Debug/net7.0/Exo4.genruntimeconfig.cache
+/Users/hugoa/dev/mydigitalschool/M2/natif/evaluation/Exo4/obj/Debug/net7.0/ref/Exo4.dll
